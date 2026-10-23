@@ -1,0 +1,1 @@
+print("Humanity is greater than anything else")

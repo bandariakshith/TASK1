@@ -1,0 +1,1 @@
+print("Krishna is the other form of universe")

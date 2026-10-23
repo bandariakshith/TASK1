@@ -1,0 +1,1 @@
+print("Gate is open for you")
