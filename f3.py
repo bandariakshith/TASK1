@@ -1,1 +1,1 @@
-print("Gate is open for you")
+print("Gate is open for you my boy")
